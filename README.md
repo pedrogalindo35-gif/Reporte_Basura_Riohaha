@@ -42,7 +42,7 @@ Interfaz básica adaptable a dispositivos móviles.
 
 Pedro Galindo  
 Wilton Moreno Chaverra
-Universidad Nacional Abierta y a Distancia UNAD
+Universidad Nacional Abierta y a Distancia
 Ingeniería de Sistemas  
 Proyecto de grado  
 Riohacha, La Guajira  
