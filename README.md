@@ -2,7 +2,7 @@
 
 ## Objetivo
 
-Desarrollar un prototipo web funcional que permita consultar horarios de recolección de residuos sólidos y registrar reportes ciudadanos sobre problemáticas relacionadas con acumulación de basura, retrasos en la recolección y puntos críticos en la ciudad de Riohacha, La Guajira.
+Desarrollar un prototipo web funcional que permita consultar horarios de recolección de residuos sólidos y registrar reportes ciudadanos sobre problemáticas relacionadas con acumulación y retrasos en la recolección de basura, ademas de reportar puntos críticos en la ciudad de Riohacha, La Guajira.
 
 ## Problema que soluciona
 
@@ -20,9 +20,9 @@ GitHub para almacenamiento del código fuente
 
 ## Cómo ejecutar el prototipo
 
-No se necesita instalar ningún programa especial.
+No es necesario instalar ningún programa en especifico.
 
-Solo se debe abrir el archivo index.html en un navegador web como Google Chrome, Microsoft Edge o Mozilla Firefox.
+Solo se se necesita acceso a internet y un navegador web como Google Chrome, Microsoft Edge o Mozilla Firefox.
 
 ## Funciones desarrolladas
 
@@ -41,8 +41,9 @@ Interfaz básica adaptable a dispositivos móviles.
 ## Autores
 
 Pedro Galindo  
-Universidad Nacional Abierta y a Distancia  
+Wilton Moreno Chaverra
+Universidad Nacional Abierta y a Distancia UNAD
 Ingeniería de Sistemas  
 Proyecto de grado  
 Riohacha, La Guajira  
-2026
+Mayo de 2026
