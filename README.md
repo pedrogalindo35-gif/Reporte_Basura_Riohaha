@@ -1,4 +1,4 @@
-# Sistema Web de Reporte Ciudadano para la Gestión de Residuos Sólidos en Riohacha
+# Sitio Web de Reporte Ciudadano para la Gestión de Residuos Sólidos en Riohacha
 
 ## Objetivo
 
