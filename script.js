@@ -11,7 +11,7 @@ function consultarHorario() {
   const resultado = document.getElementById("resultadoHorario");
 
   if (barrio === "") {
-    resultado.innerHTML = "Por favor seleccione un barrio para consultar el horario.";
+    resultado.innerHTML = "Por favor, seleccione un barrio para consultar el horario.";
     return;
   }
 
