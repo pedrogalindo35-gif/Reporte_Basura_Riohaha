@@ -2,7 +2,7 @@ const horarios = {
   "Centro": "Lunes, miércoles y viernes - 7:00 a.m.",
   "Coquivacoa": "Martes, jueves y sábado - 8:00 a.m.",
   "Villa Fátima": "Lunes, miércoles y viernes - 6:30 a.m.",
-  "Los Almendros": "Martes, jueves y sábado - 7:30 a.m.",
+  "7 de Agosto": "Martes, jueves y sábado - 7:30 a.m.",
   "Dividivi": "Lunes, miércoles y sábado - 8:30 a.m."
 };
 
